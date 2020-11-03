@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="gilbert_scott_building">Gilbert Scott Building</string>
+    <string name="sir_alwyn_williams_building">Sir Alwyn Williams BUilding</string>
+    <string name="boyd_orr_building">Boyd Orr Building</string>
+</resources>
